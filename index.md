@@ -3,7 +3,7 @@
 <big>[成]()為　[成]()为</big>　<tt>[cheŋ2]() wei2 </tt> [become.](https://translate.google.com/?sl=zh&tl=en&text=成为)
 
 <span id=内></span><!--7080-->
-<big>内[部]()　　　</big>　<tt>nei4  [bu4]()  </tt> [interior.inside.](https://translate.google.com/?sl=zh&tl=en&text=内部)   
+<big>内[部]()　　　</big>　<tt>nei4  [bu4]()  </tt> [interior. inside.](https://translate.google.com/?sl=zh&tl=en&text=内部)   
 <big>内[容]()　　　</big>　<tt>nei4  [roŋ2]() </tt> [content.](https://translate.google.com/?sl=zh&tl=en&text=内容)
 
 <span id=由></span><!--2840-->
