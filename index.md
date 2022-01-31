@@ -6,12 +6,12 @@
 [wisdom.](https://fanyi.baidu.com/#zh/en/智慧)   
 <big>智[能]()</big>　<big>　　</big>　<tt>zhì[néng]()</tt>　
 [intellect.](https://fanyi.baidu.com/#zh/en/智能)   
+<big>蜘[蛛]()</big>　<big>　　</big>　<tt>zhī[zhū]() </tt>　 
+[spider.](https://fanyi.baidu.com/#zh/en/蜘蛛)  
 <big>痴[迷]()</big>　<big>　　</big>　<tt>chī[mí]()  </tt>　 
 [obsessed.](https://fanyi.baidu.com/#zh/en/痴迷)   
 <big>[花]()痴</big>　<big>　　</big>　<tt>[huā]()chī </tt>　 
-[(girl) in love.](https://fanyi.baidu.com/#zh/en/花痴)   
-<big>蜘[蛛]()</big>　<big>　　</big>　<tt>zhī[zhū]() </tt>　 
-[spider.](https://fanyi.baidu.com/#zh/en/蜘蛛)   
+[(girl) in love.](https://fanyi.baidu.com/#zh/en/花痴)    
 <big>踟[蹰]()</big>　<big>　　</big>　<tt>chí[chú]() </tt>　 
 [hesitate.](https://fanyi.baidu.com/#zh/en/踟蹰)   
 
