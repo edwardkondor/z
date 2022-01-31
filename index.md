@@ -1,6 +1,6 @@
 <span id=為></span><!--为|為 9410-->
 <big>為[著]()　为[着]()</big>　<tt>wei4   [zhe]()  </tt>　[for.](https://translate.google.com/?sl=zh&tl=en&text=为着)   
-<big>[成]()為　[成]()为</big>　<tt>cheŋ2 [wei2]() </tt>　[become.](https://translate.google.com/?sl=zh&tl=en&text=成为)
+<big>[成]()為　[成]()为</big>　<tt>[cheŋ2]() wei2 </tt>　[become.](https://translate.google.com/?sl=zh&tl=en&text=成为)
 
 <span id=内></span><!--7080-->
 <big>内[部]()　　　</big>　<tt>nei4  [bu4]()  </tt>　[interior. inside.](https://translate.google.com/?sl=zh&tl=en&text=内部)   
