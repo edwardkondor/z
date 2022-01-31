@@ -17,7 +17,7 @@
 ### 由　油
 
 <span id=由></span><!--2840-->
-<big>[理]()由　　　</big>　<tt>[lǐ]()  yóu </tt>
+<big>[理]()由　　　</big>　<tt>[lǐ]()  yóu </tt>
 [reason.](https://fanyi.baidu.com/#zh/en/理由)   
 <big>由[於]()　由[于]()</big>　<tt>yóu [yú]()  </tt>
 [because.](https://fanyi.baidu.com/#zh/en/由于)
@@ -30,8 +30,8 @@
 ### 巨
 
 <span id=巨></span><!--568-->
-<big>巨[大]()　　　</big>　<tt>zỳ  [dà]()  </tt>
+<big>巨[大]()　　　</big>　<tt>zỳ  [dà]()  </tt>
 [huge.](https://fanyi.baidu.com/#zh/en/巨大)   
-<big>巨[人]()　　　</big>　<tt>zỳ  [rén]() </tt>
+<big>巨[人]()　　　</big>　<tt>zỳ  [rén]() </tt>
 [giant.](https://fanyi.baidu.com/#zh/en/巨人)
 
