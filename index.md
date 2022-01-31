@@ -7,3 +7,6 @@
 [wisdom.](https://fanyi.baidu.com/#zh/en/智慧)   
 <big>智[能]()</big>　<big>　　</big>　<tt>zhì[néng]()</tt>　
 [intellect.](https://fanyi.baidu.com/#zh/en/智能)
+
+<big>蜘[蛛]()</big>　<big>　　</big>　<tt>zhī[zhū]()</tt>　 
+[spider.](https://fanyi.baidu.com/#zh/en/蜘蛛)
