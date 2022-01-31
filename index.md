@@ -1,5 +1,5 @@
 <big>知[道]()</big>　<big>　　</big>　<tt>zhī[huì]()</tt>　
-[<sup>to</sup> know.](https://fanyi.baidu.com/#zh/en/知道)   
+[know.](https://fanyi.baidu.com/#zh/en/知道)   
 <big>知[識]()</big>　<big>知[识]()</big>　<tt>zhī[shì]()</tt>　
 [intellect.](https://fanyi.baidu.com/#zh/en/知识)
 
