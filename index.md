@@ -1,8 +1,10 @@
 
 <big>[避]()免</big>　<tt>[bìk ]()miǎn</tt>　<big>　　</big>　[**avoid**.](https://dict.naver.com/linedict/zhendict/dict.html#/cnen/entry/03b4aaf29962449fb5578050f4655c23)  
 <big>免[費]()</big>　<tt>miǎn[fèi ]()</tt>　<big>免[费]()</big>　[for **free**.](https://dict.naver.com/linedict/zhendict/dict.html#/cnen/entry/9f1bb32c8ca846db80eaae9b37ce2515)   
-
 <big>勉[強]()</big>　<tt>miǎn[ciǎŋ]()</tt>　<big>勉[强]()</big>　[to force.](https://dict.naver.com/linedict/zhendict/dict.html#/cnen/entry/b509a3045b064b53ab5ad0458db752dd)  
+<big>[分]()娩</big>　<tt>[fēn ]()miǎn</tt>　<big>　　</big>　[give birth.](https://dict.naver.com/linedict/zhendict/dict.html#/cnen/entry/5b1fff1d18674d399e05ca18093e658a)  
+
+
 
 <big>晩[上]()</big>　<tt>wǎn [xàŋ ]()</tt>　<big>　　</big>　[**night**.](https://dict.naver.com/linedict/zhendict/dict.html#/cnen/entry/6c6f397b75304b5cbdc42e258ff2186d)   
 <big>晩[安]()</big>　<tt>wǎn [ān  ]()</tt>　<big>　　</big>　[good night.](https://dict.naver.com/linedict/zhendict/dict.html#/cnen/entry/7ff5a11314ac497a94f94b604603f982)   
