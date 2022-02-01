@@ -1,6 +1,11 @@
 
-<big>[避]()免</big>　<tt>[bì  ]()miǎn</tt>　<big>　　</big>　[**avoid**.](https://fanyi.baidu.com/#zh/en/避免)  
-<big>免[費]()</big>　<tt>miǎn[fèi ]()</tt>　<big>免[费]()</big>　[for **free**.](https://fanyi.baidu.com/#zh/en/免费)  
+<big>[避]()免</big>　<tt>[bì  ]()miǎn</tt>　<big>　　</big>　[**avoid**.](https://dict.naver.com/linedict/zhendict/dict.html#/cnen/entry/03b4aaf29962449fb5578050f4655c23)  
+<big>免[費]()</big>　<tt>miǎn[fèi ]()</tt>　<big>免[费]()</big>　[for **free**.](https://dict.naver.com/linedict/zhendict/dict.html#/cnen/entry/9f1bb32c8ca846db80eaae9b37ce2515)   
+
+<big>晩[上]()</big>　<tt>wǎn [xàŋ ]()</tt>　<big>　　</big>　[**night**.](https://dict.naver.com/linedict/zhendict/dict.html#/cnen/entry/6c6f397b75304b5cbdc42e258ff2186d)   
+<big>晩[安]()</big>　<tt>wǎn [ān  ]()</tt>　<big>　　</big>　[good night.](https://dict.naver.com/linedict/zhendict/dict.html#/cnen/entry/7ff5a11314ac497a94f94b604603f982)   
+
+
 
 <!--
 <big>[煩]()悶</big>　<tt>[fán ]()mèn </tt>　<big>[烦]()闷</big>　[unhappy.](https://fanyi.baidu.com/#zh/en/烦闷)   
