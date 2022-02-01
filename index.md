@@ -1,3 +1,11 @@
+
+<big>[出]()售</big>　*[chū]() shòu*　<big>　　</big>　[sell.](https://fanyi.baidu.com/#zh/en/出售)   
+<big>[零]()售</big>　*[líng]() shòu*　<big>　　</big>　[retail.](https://fanyi.baidu.com/#zh/en/零售)   
+
+
+
+
+<!--
 <big>知[道]()</big>　<big>　　</big>　<tt>zhī[dào]() </tt>　
 [know.](https://fanyi.baidu.com/#zh/en/知道)   
 <big>知[識]()</big>　<big>知[识]()</big>　<tt>zhī[shì]() </tt>　
@@ -14,4 +22,4 @@
 [(girl) in love.](https://fanyi.baidu.com/#zh/en/花痴)    
 <big>踟[蹰]()</big>　<big>　　</big>　<tt>chí[chú]() </tt>　 
 [hesitate.](https://fanyi.baidu.com/#zh/en/踟蹰)   
-
+-->
