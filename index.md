@@ -1,6 +1,6 @@
 
-<big>[避]()免</big>　<tt>[bì  ]()miǎn</tt>　<big>　　</big>　[**avoid**.](https://fanyi.baidu.com/#zh/en/纳闷)  
-
+<big>[避]()免</big>　<tt>[bì  ]()miǎn</tt>　<big>　　</big>　[**avoid**.](https://fanyi.baidu.com/#zh/en/避免)  
+<big>免[費]()</big>　<tt>miǎn[fèi ]()</tt>　<big>免[费]()</big>　[for **free**.](https://fanyi.baidu.com/#zh/en/免费)  
 
 <!--
 <big>[煩]()悶</big>　<tt>[fán ]()mèn </tt>　<big>[烦]()闷</big>　[unhappy.](https://fanyi.baidu.com/#zh/en/烦闷)   
