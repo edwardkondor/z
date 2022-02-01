@@ -1,6 +1,5 @@
 <big>[比]()如</big>　*[bǐ]() rú*　　<big>　　</big>　[such as.](https://fanyi.baidu.com/#zh/en/比如)  
 <big>如[果]()</big>　*rú [guǒ]()*　<big>　　</big>　[if.](https://fanyi.baidu.com/#zh/en/如果)  
-
 <big>[寬]()恕</big>　*[kuān]() shù*　<big>[宽]()恕</big>　[forgive.](https://fanyi.baidu.com/#zh/en/宽恕)  
 
 
