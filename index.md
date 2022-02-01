@@ -1,15 +1,15 @@
 
 
-<big>[煩]()悶</big>　*<tt>[fán ]()mèn </tt>*　<big>[烦]()闷</big>　[unhappy.](https://fanyi.baidu.com/#zh/en/烦闷)   
-<big>[納]()悶</big>　*<tt>[nà  ]()mèn </tt>*　<big>[纳]()闷</big>　[wonder.](https://fanyi.baidu.com/#zh/en/纳闷)   
+*<tt>[fán ]()mèn </tt>*　<big>[煩]()悶</big>　<big>[烦]()闷</big>　[unhappy.](https://fanyi.baidu.com/#zh/en/烦闷)   
+*<tt>[nà  ]()mèn </tt>*　<big>[納]()悶</big>　<big>[纳]()闷</big>　[wonder.](https://fanyi.baidu.com/#zh/en/纳闷)   
 
-<big>[比]()如</big>　*<tt>[bǐ  ]()rú  </tt>*　<big>　　</big>　[(such) as.](https://fanyi.baidu.com/#zh/en/比如)  
-<big>如[果]()</big>　*<tt>rú  [guǒ ]()</tt>*　<big>　　</big>　[(as) if.](https://fanyi.baidu.com/#zh/en/如果)  
-<big>[寬]()恕</big>　*<tt>[kuān]()xù  </tt>*　<big>[宽]()恕</big>　[forgive.](https://fanyi.baidu.com/#zh/en/宽恕)  
-<big>絮[叨]()</big>　*<tt>sỳ  [dāo ]()</tt>*　<big>　　</big>　[ramble.](https://fanyi.baidu.com/#zh/en/絮叨)   
+*<tt>[bǐ  ]()rú  </tt>*　<big>[比]()如</big>　<big>　　</big>　[(such) as.](https://fanyi.baidu.com/#zh/en/比如)  
+*<tt>rú  [guǒ ]()</tt>*　<big>如[果]()</big>　<big>　　</big>　[(as) if.](https://fanyi.baidu.com/#zh/en/如果)  
+*<tt>[kuān]()xù  </tt>*　<big>[寬]()恕</big>　<big>[宽]()恕</big>　[forgive.](https://fanyi.baidu.com/#zh/en/宽恕)  
+*<tt>sỳ  [dāo ]()</tt>*　<big>絮[叨]()</big>　<big>　　</big>　[ramble.](https://fanyi.baidu.com/#zh/en/絮叨)   
 
-<big>[出]()售</big>　*<tt>[qūt ]()xòu </tt>*　<big>　　</big>　[sell.](https://fanyi.baidu.com/#zh/en/出售)   
-<big>[零]()售</big>　*<tt>[líŋ ]()xòu </tt>*　<big>　　</big>　[retail.](https://fanyi.baidu.com/#zh/en/零售)   
+*<tt>[qūt ]()xòu </tt>*　<big>[出]()售</big>　<big>　　</big>　[sell.](https://fanyi.baidu.com/#zh/en/出售)   
+*<tt>[líŋ ]()xòu </tt>*　<big>[零]()售</big>　<big>　　</big>　[retail.](https://fanyi.baidu.com/#zh/en/零售)   
 
 
 
