@@ -1,5 +1,8 @@
 
+<big>[避]()免</big>　<tt>[bì  ]()miǎn</tt>　<big>　　</big>　[**avoid**.](https://fanyi.baidu.com/#zh/en/纳闷)  
 
+
+<!--
 <big>[煩]()悶</big>　<tt>[fán ]()mèn </tt>　<big>[烦]()闷</big>　[unhappy.](https://fanyi.baidu.com/#zh/en/烦闷)   
 <big>[納]()悶</big>　<tt>[nà  ]()mèn </tt>　<big>[纳]()闷</big>　[wonder.](https://fanyi.baidu.com/#zh/en/纳闷)   
 
@@ -10,7 +13,7 @@
 
 <big>[出]()售</big>　<tt>[qūt ]()xòu </tt>　<big>　　</big>　[sell.](https://fanyi.baidu.com/#zh/en/出售)   
 <big>[零]()售</big>　<tt>[líŋ ]()xòu </tt>　<big>　　</big>　[retail.](https://fanyi.baidu.com/#zh/en/零售)   
-
+-->
 
 
 <!--
