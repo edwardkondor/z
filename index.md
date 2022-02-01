@@ -3,7 +3,7 @@
 <big>[寬]()恕</big>　*<tt>[kuān]()xù  </tt>*　<big>[宽]()恕</big>　[forgive.](https://fanyi.baidu.com/#zh/en/宽恕)  
 
 
-<big>[出]()售</big>　*<tt>[qū]()  xòu </tt>*　<big>　　</big>　[sell.](https://fanyi.baidu.com/#zh/en/出售)   
+<big>[出]()售</big>　*<tt>[qūt]() xòu </tt>*　<big>　　</big>　[sell.](https://fanyi.baidu.com/#zh/en/出售)   
 <big>[零]()售</big>　*<tt>[líŋ]() xòu </tt>*　<big>　　</big>　[retail.](https://fanyi.baidu.com/#zh/en/零售)   
 
 
