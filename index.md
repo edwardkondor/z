@@ -1,6 +1,3 @@
-### 榕[樹]()　榕[树]()　*<sup>**róng**</sup><sub>[shù]()</sub>*　<sub><img height=30 alt=榕 src="https://lessesity.com/language/img/fruits/fig.svg"><img height=30 alt=树 src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u1f333.svg"></sub>　<sub>[*fig tree*](https://www.google.com/search?tbm=isch&q=fig%20tree)</sub>
-
-
-
-
+<big>[内]()容　　　</big>　[nèi]()róng　📥🏡 [content.](https://translate.google.com/?sl=en&tl=zh-CN&text=content)   
+<big>榕[樹]()　榕[树]()</big>　róng[shù]()　🍐🌳 [fig tree.](https://www.google.com/search?q=fig+tree&tbm=isch)   
 
