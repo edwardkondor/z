@@ -7,6 +7,6 @@ img {vertical-align: -5px;}
 
 img.a { filter: invert(.3) sepia(1) saturate(5) hue-rotate(175deg); }
 
-section {display: grid}
+font {display: grid; grid-template-columns: repeat( auto-fit, minmax(245px, 1fr) );}
 
 .page-header{background-image: linear-gradient(120deg, #159957, #155799, purple);}
