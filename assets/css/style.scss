@@ -3,7 +3,7 @@
 
 @import 'jekyll-theme-cayman';
 
-sub img {vertical-align: -5px;}
+img {vertical-align: -5px;}
 
 img.a { filter: invert(.2) sepia(1) saturate(5) hue-rotate(175deg); }
 
