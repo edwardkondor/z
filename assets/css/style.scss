@@ -8,7 +8,7 @@
 .main-content h3 sub img {vertical-align: -5px;}
 
 @media screen and (min-width: 42em){
-  .main-content section{
+  .main-content>blockquote{
     display: grid;
     grid-gap: 10px;
     grid-template-columns: 1fr 1fr;
