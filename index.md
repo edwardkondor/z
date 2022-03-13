@@ -1,4 +1,4 @@
-<big>[緊]()急</big>　*[gǐn]()gíp*　urgent. emergency.
+<big>[緊]()急</big>　*[gǐn]()gív*　urgent. emergency.
 
 
 
