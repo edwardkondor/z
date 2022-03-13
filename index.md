@@ -1,5 +1,5 @@
-<big>[緊]()急</big>　*[gin3]()giv2*　urgent. emergency.   
-<big>急[劇]()</big>　*giv2[gyh4]()*　sudden. rapid.
+_*[緊]()急*　[gin3]()giv2_　urgent. emergency.   
+_*急[劇]()*　giv2[gyh4]()_　sudden. rapid.
 
 
 
