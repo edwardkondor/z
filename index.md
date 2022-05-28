@@ -1,7 +1,7 @@
 
 ### 侖
 
-<big>[理]()論　[理]()论</big>　_[li˩]() lun˥˩_　　theory.   
+<big>[理]()論　[理]()论</big>　_[li˩]() lun˥˩_　　　theory.   
 <big>[討]()論　[讨]()论</big>　_[tao˩]() lun˥˩_　　discuss.   
 
 <big>淪[落]()　沦[落]()</big>　_lun˧˥ [luo˥˩]()_　　fall. sink.   
