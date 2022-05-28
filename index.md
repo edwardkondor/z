@@ -5,7 +5,7 @@
 <big>[討]()論　[讨]()论</big>　_[tao˩]() lun˥˩_　　discuss.   
 
 <big>淪[落]()　沦[落]()</big>　_lun˧˥ [luo˥˩]()_　　fall. sink.   
-<big>淪[為]()　沦[为]()</big>　_lun˧˥ [wei˥˩]()_　　become. fall into.   
+<big>淪[為]()　沦[为]()</big>　_lun˧˥ [wei˥˩]()_　　become. fall into.   
 
 
 <!--
