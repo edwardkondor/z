@@ -3,7 +3,7 @@
 
 理[解]() _li3[jie3]()_ 　understand.&nbsp;comprehend.  
 
-了[解]() _liao3[jie3]()_　…　[道]()理 _[dao4]()li3_   
+[了]()解 _[liao3]()jie3_　…　[道]()理 _[dao4]()li3_   
 understand　…　reason.  
 
 
