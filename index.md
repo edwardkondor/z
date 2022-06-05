@@ -1,19 +1,11 @@
 
-# <b>理</b>
+# <b>理</b> 🤔💭
 
-理[解]() _li3[jie3]()_　🤔 understand. comprehend.   
-理[解]()<sup>り[かい]()</sup>　　理<sup lang=zh-tw>ことわり</sup>　解<sup>[わか]()</sup>る   
+理[解]() _li3[jie3]()_ 　understand.&nbsp;comprehend.  
 
-理[解]()　_li3[jie3]()_　理[解]()`り`[`かい`]()  
-🤔 understand. comprehend.   
-理`ことわり`　解[`わか`]()る   
+了[解]() _liao3[jie3]()_…[道]()理 _[dao4]()li3_   
+understand&numsp;…&numsp;reason.  
 
-理[解]() _li3 [jie3]()_　🤔💭　understand. comprehend.   
-理[解]()`り`[`かい`]()　理`ことわり`　解[`わか`]()る   
-
-
-理[解]() _li3 [jie3]()_　
-🤔💭　understand. comprehend.   
 
 理[解]()`り`[`かい`]() understand. comprehend.   
 理`ことわり` reason. [解]()[`わか`]()る understand.   
