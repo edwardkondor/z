@@ -8,8 +8,15 @@
 🤔 understand. comprehend.   
 理`ことわり`　解[`わか`]()る   
 
-理[解]() _li3 [jie3]()_　🤔 understand. comprehend.   
+理[解]() _li3 [jie3]()_　🤔💭　understand. comprehend.   
 理[解]()`り`[`かい`]()　理`ことわり`　解[`わか`]()る   
+
+
+理[解]() _li3 [jie3]()_　
+🤔💭　understand. comprehend.   
+
+理[解]()`り`[`かい`]() understand. comprehend.   
+理`ことわり` reason. 解[`わか`]()る understand.   
 
 
 
