@@ -1,11 +1,6 @@
 
-# <b>理</b>
-
-<ruby>
-
-
-<label for="username">Username</label>
-<input id="username" type="text" />
+# <var>理</var>
+理[解]()
 
 
 <!--
