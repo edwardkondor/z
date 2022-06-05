@@ -16,7 +16,7 @@
 🤔💭　understand. comprehend.   
 
 理[解]()`り`[`かい`]() understand. comprehend.   
-理`ことわり` reason. 解[`わか`]()る understand.   
+理`ことわり` reason. [解]()[`わか`]()る understand.   
 
 
 
