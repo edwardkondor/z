@@ -1,8 +1,8 @@
 
 ### 星⭐　　　[日]()☀️[生]()🌱
 
-<ruby>星[星]()</ruby><tt>xīŋ[xīŋ]()</tt>　<ruby>星</ruby><kbd>ほ<br>し</kbd>　　　**star**.   
-<ruby>[衛]()星</ruby><tt>[wèi]()xīŋ</tt>　<ruby>[衛]()星</ruby><kbd>えい<br>せい</kbd>　　satellite.   
+<ruby>星[星]()</ruby><tt>xīŋ[xīŋ]()</tt>　<ruby>星</ruby><kbd>ほ<br>し</kbd>　　　　**star**.   
+<ruby>[衛]()星</ruby><tt>[wèi]()xīŋ</tt>　<ruby>[衛]()星</ruby><kbd>えい<br>せい</kbd> 　　satellite.   
 <ruby>星[期]()</ruby><tt>xīŋ[qī]() </tt>　<ruby>週間</ruby><kbd>しゅう<br>かん</kbd>　　week.   
 
 
