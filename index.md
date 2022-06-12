@@ -1,9 +1,9 @@
 
 ### 星⭐　　　[日]()☀️[生]()🌱
 
-<ruby>星[星]()</ruby><tt>xīng[xīng]()</tt>　<ruby>星<rt>ほし</rt>　</ruby>　　　**star**.   
-<ruby>[衛]()星</ruby><tt> [wèi]()xīng</tt>　<ruby>[衛]()星<rt>えいせい</rt>　</ruby>　　satellite.   
-<ruby>星[期]()</ruby><tt>xīng [qī]() </tt>　<ruby>週間<rt>しゅうかん</rt>　</ruby>　　week.   
+<ruby>星[星]()</ruby><tt>xīng[xīng]()</tt>　<ruby>星 <rt>ほし</rt></ruby>　　　**star**.   
+<ruby>[衛]()星</ruby><tt> [wèi]()xīng</tt>　<ruby>[衛]()星 <rt>えいせい</rt></ruby>　　satellite.   
+<ruby>星[期]()</ruby><tt>xīng [qī]() </tt>　<ruby>週間 <rt>しゅうかん</rt></ruby>　　week.   
 
 
 <!--
