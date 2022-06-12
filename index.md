@@ -1,5 +1,5 @@
 
-## 星⭐　　　[日]()☀️[生]()🌱
+## 星　⭐　　[日]()☀️[生]()🌱
 
 <ruby>星[星]()</ruby><tt>xīŋ[xīŋ]()</tt>　<ruby>星</ruby><kbd>ほ<br>し</kbd>　　　　**star**.   
 <ruby>[衛]()星</ruby><tt>[wèi]()xīŋ</tt>　<ruby>[衛]()星</ruby><kbd>えい<br>せい</kbd> 　　satellite.   
