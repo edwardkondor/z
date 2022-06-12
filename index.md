@@ -1,4 +1,16 @@
 
+### <span lang=zh-tw>星⭐　　　[日]()☀️[生]()🌱</span>
+
+星[星]()<tt>xīng[xīng]()</tt>　<ruby>星<rt>ほし</rt></ruby>　　　　**star**.   
+[衛]()星<tt> [wèi]()xīng</tt>　<ruby>[衛]()星<rt>えいせい</rt></ruby>　　　satellite.   
+星[期]()<tt>xīng [qī]() </tt>　<ruby>週間<rt>しゅうかん</rt></ruby>　　　week.   
+
+
+<!--
+
+
+
+
 # <b>理</b> 🤔💭
 
 理[解]() _li3[jie3]()_   
@@ -13,7 +25,7 @@
 　reason　…　understand.
 
 
-<!--
+
 
 
 <big>論　　论　　📚[侖仑]()　　💬[言讠]()</big>   
