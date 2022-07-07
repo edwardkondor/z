@@ -1,4 +1,9 @@
-rt{
-  font-size:9px; 
+$root-font-size: 17px !default;
+
+ruby>rt{
+  font-size:67%; 
   font-family:Yu Gothic UI Bold;
+  font-weight: 700;
 }
+
+
