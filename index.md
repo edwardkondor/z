@@ -2,17 +2,17 @@
 
 ## <span lang=zh-tw>盡　尽</span>
 
-用盡　用尽　*yong4 jin4*   
+用盡　用尽　*[yong4]() jin4*   
 **exhaust**. use up /run out.   
 <ruby>尽<rt>つ</rt>くす／</ruby><ruby>尽<rt>つ</rt>きる．</ruby>   
 
 
-盡力　尽力　*bu4 jin4*   
+盡力　尽力　*jin4 [li4]()*   
 try your best. make an effort.   
 <ruby>力<rt>ちから</rt>を</ruby><ruby>尽<rt>つ</rt>くす．</ruby><ruby>尽力<rt>じんりょく</rt>する．</ruby>   
 
 
-無盡　无尽　*wu2 jin4*   
+無盡　无尽　*[wu2]() jin4*   
 **end**less.   
 <ruby>尽<rt>つ</rt>きない．</ruby><ruby>無尽<rt>むじん</rt>の．</ruby>   
 
