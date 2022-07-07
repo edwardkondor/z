@@ -1,6 +1,6 @@
 
 
-## <span lang=zh-tw>盡　尽</span>
+## 盡　尽
 
 用盡　用尽　*[yong4]() jin4*   
 **exhaust**. use up /run out.   
