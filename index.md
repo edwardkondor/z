@@ -20,6 +20,26 @@ try your best. effort.
 
 
 
+
+## 盡　尽
+
+用盡 <tt>[yòng]()jìn</tt>　<ruby>尽<rt>つ</rt>くす／</ruby><ruby>尽<rt>つ</rt>きる．</ruby>   
+**exhaust**. use&nbsp;up/run&nbsp;out.   
+盡力 <tt>jìn[lì]()</tt>　<ruby>力<rt>ちから</rt>を</ruby><ruby>尽<rt>つ</rt>くす．</ruby><ruby>尽力<rt>じんりょく</rt>．</ruby>   
+try your best. effort.   
+無盡 <tt>[wú]()jìn</tt>　<ruby>尽<rt>つ</rt>きない．</ruby><ruby>無尽<rt>むじん</rt>の．</ruby>   
+**end**less.   
+
+
+
+
+
+
+
+
+
+
+
 <!--
 
 
